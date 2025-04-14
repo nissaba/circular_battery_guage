@@ -11,10 +11,11 @@ A simple Flutter demo showcasing a circular battery gauge with charging mode.
 
 ## Screenshots
 
-
-![20% gauge](level20.png)
-![50% gauge](level50.png)
-![50% gauge](level50Charge.png)
+<p align="center">
+  <img src="level20.png" alt="Jauge 1" width="200"/>
+  <img src="level50.pn.png" alt="Jauge 2" width="200"/>
+  <img src="level50Charge.png" alt="Jauge 3" width="200"/>
+</p>
 
 ## Getting Started
 
