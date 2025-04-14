@@ -43,6 +43,7 @@ class MyHomePage extends StatelessWidget {
       body: BlocBuilder<BatteryBloc, BatteryState>(
         builder: (context, state) {
           return Column(
+            mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Padding(
                 padding: const EdgeInsets.all(20.0),
