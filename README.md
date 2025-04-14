@@ -7,7 +7,8 @@ A simple Flutter demo showcasing a circular battery gauge with charging mode.
 - Displays battery level in 4 segments  
 - Visual indication when charging is active  
 - Warning indicator for low battery levels  
-- Built using `CustomPainter` for the gauge design  
+- Built using `CustomPainter` for the gauge design
+- Charging Segment Animation 
 
 ## Screenshots
 
