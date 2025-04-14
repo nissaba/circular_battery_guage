@@ -1,16 +1,38 @@
-# batt_guage
+# Circular Battery Gauge
 
-A new Flutter project.
+A simple Flutter demo showcasing a circular battery gauge with charging mode.
+
+## Features
+
+- Displays battery level in 4 segments  
+- Visual indication when charging is active  
+- Warning indicator for low battery levels  
+- Built using `CustomPainter` for the gauge design  
+
+## Screenshots
+
+*(Ajoute ici une capture d’écran si possible, pour illustrer la jauge visuellement)*
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/circular_battery_gauge.git
+   cd circular_battery_gauge
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## About
+
+This project was created as a simple demo of a battery indicator using Flutter. It serves as a base for visual components involving battery status or circular gauges.
